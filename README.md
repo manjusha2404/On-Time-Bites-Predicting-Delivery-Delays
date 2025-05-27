@@ -1,4 +1,4 @@
-# 🍽️ Food Delivery Time Prediction
+# 🍽️ On-Time Bites: Predicting Delivery Delays
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
